@@ -66,7 +66,6 @@ hvplot
 intake
 iris
 keras
-mpl_toolkits
 networkx
 numba
 oauth2client
@@ -80,12 +79,9 @@ quandl
 retrieval
 shapely
 slacker
-src
 stocker
 streamz
 tensorflow
-time_features_utils
-utils
 visuals
 xarray
 xesmf
